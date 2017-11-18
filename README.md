@@ -1,4 +1,6 @@
 # stidda
+[![NPM](https://nodei.co/npm/stidda.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/stidda/)
+
 Have you ever needed so badly to use a star rating from your command line?
 No?
 Me neither.
