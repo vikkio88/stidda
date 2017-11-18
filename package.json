@@ -1,0 +1,16 @@
+{
+  "name": "stidda",
+  "version": "1.0.0",
+  "description": "a useless cli script to print star rating",
+  "author": "Vincenzo Ciaccio <vincenzo.ciaccio@gmail.com>",
+  "bin": "./lib/index.js",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikkio88/stidda.git"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
